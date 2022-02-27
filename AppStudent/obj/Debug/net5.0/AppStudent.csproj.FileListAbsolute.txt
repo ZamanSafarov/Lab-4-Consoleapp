@@ -1,0 +1,16 @@
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.exe
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.deps.json
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.runtimeconfig.json
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.runtimeconfig.dev.json
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.dll
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\ref\AppStudent.dll
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\bin\Debug\net5.0\AppStudent.pdb
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.csproj.AssemblyReference.cache
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.AssemblyInfoInputs.cache
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.AssemblyInfo.cs
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.csproj.CoreCompileInputs.cache
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.dll
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\ref\AppStudent.dll
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.pdb
+C:\Users\zamanjs\source\repos\AppStudent\AppStudent\obj\Debug\net5.0\AppStudent.genruntimeconfig.cache
